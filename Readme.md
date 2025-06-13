@@ -18,9 +18,10 @@ This page contains my solutions of CSES problems. They are in C++ language.
 | 7 | 1635 | Coin Combinations I | [Question](https://cses.fi/problemset/task/1635) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1635%20-%20Coin%20Combinations%20I)
 | 8 | 1636 | Coin Combinations II | [Question](https://cses.fi/problemset/task/1636) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1636%20-%20Coin%20Combinations%20II)
 | 9 | 1666 | Building Roads | [Question](https://cses.fi/problemset/task/1666) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1666%20-%20Building%20Roads)
-| 10 | 2165 | Tower of Hanoi | [Question](https://cses.fi/problemset/task/2165) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2165%20-%20Tower%20of%20Hanoi)
-| 11 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
-| 12 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
+| 10 | 1713 | Counting Divisors | [Question](https://cses.fi/problemset/task/1713) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1713%20-%20Counting%20Divisors)
+| 11 | 2165 | Tower of Hanoi | [Question](https://cses.fi/problemset/task/2165) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2165%20-%20Tower%20of%20Hanoi)
+| 12 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
+| 13 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
 
 
 
