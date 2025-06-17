@@ -19,7 +19,21 @@ ll power(ll x,ll y,ll m=LLONG_MAX) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;
 
 void solve()
 {
-    
+    ll n;
+    cin >> n;
+    map<ll, ll>rems;
+    rems[0] = 1;
+    ll curr = 0, ct = 0;
+    for(int i = 0; i < n; ++i)
+    {
+        ll a;
+        cin >> a;
+        curr += a;
+        ll rem = ((curr % n) + n) % n;
+        ct += rems[rem];
+        rems[rem]++;
+    }
+    cout << ct << endl;
 }
 
 signed main()
