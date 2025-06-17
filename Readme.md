@@ -18,14 +18,15 @@ This page contains my solutions of CSES problems. They are in C++ language.
 | 7 | 1635 | Coin Combinations I | [Question](https://cses.fi/problemset/task/1635) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1635%20-%20Coin%20Combinations%20I)
 | 8 | 1636 | Coin Combinations II | [Question](https://cses.fi/problemset/task/1636) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1636%20-%20Coin%20Combinations%20II)
 | 9 | 1646 | Static Range Sum Queries | [Question](https://cses.fi/problemset/task/1646) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1646%20-%20Static%20Range%20Sum%20Queries)
-| 10 | 1660 | Subarray Sums I | [Question](https://cses.fi/problemset/task/1660) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1660%20-%20Subarray%20Sums%20I)
-| 11 | 1661 | Subarray Sums II | [Question](https://cses.fi/problemset/task/1661) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1661%20-%20Subarray%20Sums%20II)
-| 12 | 1662 | Subarray Divisibility | [Question](https://cses.fi/problemset/task/1662) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1662%20-%20Subarray%20Divisibility)
-| 13 | 1666 | Building Roads | [Question](https://cses.fi/problemset/task/1666) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1666%20-%20Building%20Roads)
-| 14 | 1713 | Counting Divisors | [Question](https://cses.fi/problemset/task/1713) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1713%20-%20Counting%20Divisors)
-| 15 | 2165 | Tower of Hanoi | [Question](https://cses.fi/problemset/task/2165) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2165%20-%20Tower%20of%20Hanoi)
-| 16 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
-| 17 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
+| 10 | 1650 | Range Xor Queries | [Question](https://cses.fi/problemset/task/1650) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1650%20-%20Range%20Xor%20Queries)
+| 11 | 1660 | Subarray Sums I | [Question](https://cses.fi/problemset/task/1660) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1660%20-%20Subarray%20Sums%20I)
+| 12 | 1661 | Subarray Sums II | [Question](https://cses.fi/problemset/task/1661) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1661%20-%20Subarray%20Sums%20II)
+| 13 | 1662 | Subarray Divisibility | [Question](https://cses.fi/problemset/task/1662) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1662%20-%20Subarray%20Divisibility)
+| 14 | 1666 | Building Roads | [Question](https://cses.fi/problemset/task/1666) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1666%20-%20Building%20Roads)
+| 15 | 1713 | Counting Divisors | [Question](https://cses.fi/problemset/task/1713) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1713%20-%20Counting%20Divisors)
+| 16 | 2165 | Tower of Hanoi | [Question](https://cses.fi/problemset/task/2165) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2165%20-%20Tower%20of%20Hanoi)
+| 17 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
+| 18 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
 
 
 
