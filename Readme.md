@@ -30,6 +30,7 @@ This page contains my solutions of CSES problems. They are in C++ language.
 | 19 | 2165 | Tower of Hanoi | [Question](https://cses.fi/problemset/task/2165) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2165%20-%20Tower%20of%20Hanoi)
 | 20 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
 | 21 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
+| 22 | 2216 | Collecting Numbers | [Question](https://cses.fi/problemset/task/2216) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2216%20-%20Collecting%20Numbers)
 
 
 
