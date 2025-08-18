@@ -39,6 +39,7 @@ This page contains my solutions of CSES problems. They are in C++ language.
 | 28 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
 | 29 | 2216 | Collecting Numbers | [Question](https://cses.fi/problemset/task/2216) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2216%20-%20Collecting%20Numbers)
 | 30 | 2422 | Multiplication Table | [Question](https://cses.fi/problemset/task/2422) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2422%20-%20Multiplication%20Table)
+| 31 | 2431 | Digit Queries | [Question](https://cses.fi/problemset/task/2431) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2431%20-%20Digit%20Queries)
 
 
 
