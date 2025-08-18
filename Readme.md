@@ -37,6 +37,7 @@ This page contains my solutions of CSES problems. They are in C++ language.
 | 26 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
 | 27 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
 | 28 | 2216 | Collecting Numbers | [Question](https://cses.fi/problemset/task/2216) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2216%20-%20Collecting%20Numbers)
+| 29 | 2422 | Multiplication Table | [Question](https://cses.fi/problemset/task/2422) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2422%20-%20Multiplication%20Table)
 
 
 
