@@ -35,13 +35,14 @@ This page contains my solutions of CSES problems. They are in C++ language.
 | 24 | 1662 | Subarray Divisibility | [Question](https://cses.fi/problemset/task/1662) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1662%20-%20Subarray%20Divisibility)
 | 25 | 1666 | Building Roads | [Question](https://cses.fi/problemset/task/1666) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1666%20-%20Building%20Roads)
 | 26 | 1713 | Counting Divisors | [Question](https://cses.fi/problemset/task/1713) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1713%20-%20Counting%20Divisors)
-| 27 | 2165 | Tower of Hanoi | [Question](https://cses.fi/problemset/task/2165) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2165%20-%20Tower%20of%20Hanoi)
-| 28 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
-| 29 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
-| 30 | 2216 | Collecting Numbers | [Question](https://cses.fi/problemset/task/2216) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2216%20-%20Collecting%20Numbers)
-| 31 | 2422 | Multiplication Table | [Question](https://cses.fi/problemset/task/2422) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2422%20-%20Multiplication%20Table)
-| 32 | 2428 | Distinct Values Subarrays II | [Question](https://cses.fi/problemset/task/2428) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2428%20-%20Distinct%20Values%20Subarrays%20II)
-| 33 | 2431 | Digit Queries | [Question](https://cses.fi/problemset/task/2431) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2431%20-%20Digit%20Queries)
+| 27 | 1731 | Word Combinations | [Question](https://cses.fi/problemset/task/1731) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/1731%20-%20Word%20Combinations)
+| 28 | 2165 | Tower of Hanoi | [Question](https://cses.fi/problemset/task/2165) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2165%20-%20Tower%20of%20Hanoi)
+| 29 | 2189 | Point Location Test | [Question](https://cses.fi/problemset/task/2189) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2189%20-%20Point%20Location%20Test)
+| 30 | 2190 | Line Segment Intersection | [Question](https://cses.fi/problemset/task/2190) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2190%20-%20Line%20Segment%20Intersection)
+| 31 | 2216 | Collecting Numbers | [Question](https://cses.fi/problemset/task/2216) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2216%20-%20Collecting%20Numbers)
+| 32 | 2422 | Multiplication Table | [Question](https://cses.fi/problemset/task/2422) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2422%20-%20Multiplication%20Table)
+| 33 | 2428 | Distinct Values Subarrays II | [Question](https://cses.fi/problemset/task/2428) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2428%20-%20Distinct%20Values%20Subarrays%20II)
+| 34 | 2431 | Digit Queries | [Question](https://cses.fi/problemset/task/2431) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2431%20-%20Digit%20Queries)
 
 
 
