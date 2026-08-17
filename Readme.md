@@ -47,6 +47,7 @@ This page contains my solutions of CSES problems. They are in C++ language.
 | 36 | 2422 | Multiplication Table | [Question](https://cses.fi/problemset/task/2422) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2422%20-%20Multiplication%20Table)
 | 37 | 2428 | Distinct Values Subarrays II | [Question](https://cses.fi/problemset/task/2428) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2428%20-%20Distinct%20Values%20Subarrays%20II)
 | 38 | 2431 | Digit Queries | [Question](https://cses.fi/problemset/task/2431) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/2431%20-%20Digit%20Queries)
+| 39 | 3359 | Minimal Grid Path | [Question](https://cses.fi/problemset/task/3359) | [Solution](https://github.com/ShazidMashrafi/CSES/tree/main/Codes/3359%20-%20Minimal%20Grid%20Path)
 
 
 
